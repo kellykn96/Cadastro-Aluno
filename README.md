@@ -8,4 +8,4 @@
   - DELETE/Aluno/ID
 
 
-[Heroku]((https://api-bootcamp-alunos.herokuapp.com))
+[Heroku](https://api-bootcamp-alunos.herokuapp.com)
